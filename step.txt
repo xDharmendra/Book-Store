@@ -1,0 +1,9 @@
+npm create vite@latest .
+
+                √ Package name: ... frontend
+                √ Select a framework: » React
+                √ Select a variant: » JavaScript
+
+npm install -D tailwindcss postcss autoprefixer
+
+npm i -D daisyui@latest
