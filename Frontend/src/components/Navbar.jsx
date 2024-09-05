@@ -36,7 +36,7 @@ function Navbar() {
         <>
             <li><a href='/'>Home</a></li>
             <li><a href='/course'>Course</a></li>
-            <li><a>Contact</a></li>
+            <li><a href='/contact'>Contact</a></li>
             <li><a>About</a></li>
         </>
     )
@@ -118,7 +118,7 @@ function Navbar() {
                             </label>
                         </div>
                         <div >
-                            <a className="bg-black text-white px-3 py-2 rounded-md hover:bg-slate-800 duration-300 cursor-pointer" onClick={()=>document.getElementById("my_modal_2").showModal()}>Login</a>
+                            <a className="bg-black text-white px-3 py-2 rounded-md hover:bg-slate-800 duration-300 cursor-pointer" onClick={()=>document.getElementById("my_modal_3").showModal()}>Login</a>
                             <Login/>
                         </div>
                     </div>
