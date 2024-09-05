@@ -78,6 +78,22 @@
         "price": 20,
         "category": "Entertainment",
         "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?w=740&t=st=1725446024~exp=1725446624~hmac=46907f8db8716fd4201bc23e0850b4044730edc8e9ce50cb89dbde8241d551aa"
+    },
+    {
+        "id": 11,
+        "name": "triller Book",
+        "title": "Lorem lorem lhdui jhdfhgo hufos dfd",
+        "price": 85,
+        "category": "free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?w=740&t=st=1725446024~exp=1725446624~hmac=46907f8db8716fd4201bc23e0850b4044730edc8e9ce50cb89dbde8241d551aa"
+    },
+    {
+        "id": 12,
+        "name": "Science Book",
+        "title": "Lorem lorem lhdui jhdfhgo hufos dfd",
+        "price": 120,
+        "category": "Entertainment",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?w=740&t=st=1725446024~exp=1725446624~hmac=46907f8db8716fd4201bc23e0850b4044730edc8e9ce50cb89dbde8241d551aa"
     }
     
 ]
