@@ -5,9 +5,13 @@ import dotenv from 'dotenv'
 import mongoose from 'mongoose';
 import bookRoute from './route/book.route.js'
 import cors from 'cors'
+import userRoute from './route/user.route.js';
 
 const app = express()
 app.use(cors())
+
+app.use(express.json())
+
 
 dotenv.config();
 
@@ -30,6 +34,7 @@ try {
 
 // defining routes
 app.use("/book", bookRoute)
+app.use("/users", userRoute)
 
 
 app.listen(PORT, () => {
