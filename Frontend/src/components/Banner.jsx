@@ -8,7 +8,9 @@ function Banner() {
                 <div className='order-2 md:order-1 w-full md:w-1/2 mt-12 md:mt-32'>
                     <div className='space-y-12'>
                         <h1 className='text-4xl font-bold'>Hello , welcome here to learn something <span className='text-pink-500'>new everyday!!!</span></h1>
-                        <p className='text-xl'>Lorem ipsum dolor sit amet consectetur adipisicing elit. At, quidem. Quidem ipsam, totam magnam sapiente tenetur neque. Qui voluptates beatae quaerat at accusantium doloribus veniam nesciunt voluptatibus. Dolorum cumque delectus provident perspiciatis eum recusandae eius pariatur possimus temporibus esse ut nesciunt minima quia illum vitae magni repellendus dicta, culpa quibusdam.</p>
+                        <p className='text-xl my-2'>"Welcome to Your Personal Book Haven : – 
+                            <br />
+                            Where Every Page Turns a New Adventure! Whether you're looking for timeless classics, thrilling bestsellers, or hidden gems, our extensive collection is designed to inspire and delight. Discover books across every genre, handpicked for passionate readers like you. Dive in, explore, and let your next great story begin!"</p>
                         <label className="input input-bordered flex items-center gap-2">
                             <svg
                                 xmlns="http://www.w3.org/2000/svg"
